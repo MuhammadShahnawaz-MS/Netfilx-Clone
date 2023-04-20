@@ -1,0 +1,167 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#main1 {
+    width: 1518px;
+    height: 740px;
+    border: 1px solid black;
+    background: rgba(0, 0, 0, 0.6) url(https://assets.nflxext.com/ffe/siteui/vlv3/83e8c151-107d-4e8f-b95a-d2ba99d49bb9/f1ac72e1-5adc-4caf-bceb-e8ec775414ac/IN-en-20230213-popsignuptwoweeks-perspective_alpha_website_small.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+}
+
+#nav {
+    margin-top: 25px;
+    /* border: 1px solid white; */
+}
+
+.navimg {
+    height: 80px;
+    width: 150px;
+    margin-left: 50px;
+}
+
+.navbtn {
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    padding: 5px 20px 8px 20px;
+    font-weight: 1000px;
+    border-radius: 4px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+}
+
+#text {
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 360px;
+    height: 400px;
+    width: 800px;
+
+    /* border: 1px solid white; */
+}
+
+.h1 {
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text1 {
+
+    margin-top: 25px;
+}
+
+.texti1 {
+    float: left;
+    margin-left: 85px;
+    font-size: large;
+    padding-left: 15px;
+    /* margin-right: 0px; */
+    height: 70px;
+    width: 430px;
+    border: 1px solid black;
+}
+.bbt:focus{
+outline: none;
+}
+
+.texti2 {
+    /* float: right; */
+    margin-right: 61px;
+    padding: 2px;
+    padding-left: 20px;
+    border: 2px solid black;
+    color: wheat;
+    background-color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    height: 70px;
+    width: 222px;
+}
+
+#main2 {
+    border: 10px  solid rgb(36, 36, 36);
+  border-left: none;
+  border-right: none;   
+  border-bottom:none;   
+    width: 1518px;
+    height: 500px;
+    background-color: black;
+}
+.indiv1{
+    float: left;
+    display: inline-block;
+    border: 1px solid  black;
+    margin-top: 60px;
+    margin-left: 100px;
+    height: 370px;
+    width: 640px;
+}
+.indiv2{
+    margin-top: 60px;
+    margin-left: 50px;
+    display: inline-block;
+    border: 1px solid black;
+    height: 370px;
+    width: 640px;
+}
+
+.indh1{
+    margin-top: 100px;
+    margin-left: 50px;
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   
+}
+.indh4{
+    margin-top: 20px;
+    margin-left: 50px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.drop{
+color: white;
+font-size:x-large;
+padding-left: 20px;
+padding-top: 0px;
+/* border: 1px solid white; */
+background-color: rgb(68, 65, 65);
+margin-top: 50px;
+margin-left: 80px;
+height: 70px;
+width: 820px;
+}
+.drop2{
+color: white;
+font-size:x-large;
+padding-left: 20px;
+padding-top: 0px;
+/* border: 1px solid white; */
+background-color: rgb(68, 65, 65);
+margin-top: 5px;
+margin-left: 80px;
+height: 70px;
+width: 820px;
+}
+.optn{
+    background-color: rgb(68, 65, 65);
+    height: 70px;
+    width: 820px;
+
+}
+.list{
+    margin-bottom: 10px;
+}
+.list:hover,
+.number:hover{
+    text-decoration: underline;
+}   
